@@ -34,3 +34,19 @@
 
 ## 10: Splitters 
 ![alt text](images/10.PNG?raw=true "sortie de code")
+
+## 11: QDir
+![alt text](images/11.PNG?raw=true "sortie de code")
+
+## 12: QFile
+![alt text](images/12.PNG?raw=true "sortie de code")
+
+## 13: ResourceFiles
+![alt text](images/13.PNG?raw=true "sortie de code")
+
+## 14: QLabelAndQtDesigner
+![alt text](images/14.PNG?raw=true "sortie de code")
+
+## 15: QPushButton
+![alt text](images/15.PNG?raw=true "sortie de code")
+
