@@ -50,3 +50,17 @@
 ## 15: QPushButton
 ![alt text](images/15.PNG?raw=true "sortie de code")
 
+## 16: QLineText
+![alt text](images/16.PNG?raw=true "sortie de code")
+
+## 17: QCheckBox
+![alt text](images/17.PNG?raw=true "sortie de code")
+
+## 18: QRadioButton
+![alt text](images/18.PNG?raw=true "sortie de code")
+
+## 19: QComboBox
+![alt text](images/19.PNG?raw=true "sortie de code")
+
+## 20: QListWidget
+![alt text](images/20.PNG?raw=true "sortie de code")
