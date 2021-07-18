@@ -64,3 +64,32 @@
 
 ## 20: QListWidget
 ![alt text](images/20.PNG?raw=true "sortie de code")
+
+## 21-22: QTreeWidget
+![alt text](images/21.PNG?raw=true "sortie de code")
+
+## 23: QActions
+![alt text](images/23.PNG?raw=true "sortie de code")
+
+## 24: QSliderAndQProgressBar
+![alt text](images/24.PNG?raw=true "sortie de code")
+
+## 25: QStatusBar
+![alt text](images/25.PNG?raw=true "sortie de code")
+
+## 26: QMessageBox
+![alt text](images/26.PNG?raw=true "sortie de code")
+![alt text](images/26a.PNG?raw=true "sortie de code")
+![alt text](images/26b.PNG?raw=true "sortie de code")
+
+## 27: QTimer
+![alt text](images/27.PNG?raw=true "sortie de code")
+
+## 28: QThread
+![alt text](images/28.PNG?raw=true "sortie de code")
+
+## 29: QThread "HighestPriority, NormalPriority and LowestPriority"
+![alt text](images/29.PNG?raw=true "sortie de code")
+
+## 30: QThread with QMutex
+![alt text](images/30.PNG?raw=true "sortie de code")
