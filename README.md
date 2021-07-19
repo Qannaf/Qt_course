@@ -337,3 +337,119 @@ int main(int argc, char *argv[])
 ![alt text](images/43.PNG?raw=true "sortie de code")
 
 
+## 44: CopyAlgorithm
+```CPP
+#include <QCoreApplication>
+#include <QStringList>
+#include <QDebug>
+#include <QVector>
+
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
+
+
+    QStringList List;
+    List << "a" << "b" << "c";
+
+    QVector<QString> Vect;
+    std::copy( List.begin(), List.end(), std::back_inserter( Vect ) );
+
+
+    foreach (QString itm, Vect)
+        qDebug() << itm;
+
+
+    return a.exec();
+}
+```
+![alt text](images/44.PNG?raw=true "sortie de code")
+
+
+## 45: FillAlgorithm
+```CPP
+#include <QCoreApplication>
+#include <QDebug>
+#include <QVector>
+#include <QString>
+
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
+
+    QVector<QString> Vect(5);
+    std::fill(Vect.begin()+1, Vect.end()-2, "LOL");
+
+    foreach (QString itm, Vect)
+        qDebug() << itm;
+
+    return a.exec();
+}
+```
+![alt text](images/45.PNG?raw=true "sortie de code")
+
+
+
+## 46: FindAlgorithm
+```CPP
+#include <QCoreApplication>
+#include <QDebug>
+#include <QList>
+
+int main(int argc, char *argv[])
+{
+    QCoreApplication a(argc, argv);
+
+    QList<int> List;
+    List << 1 << 5 << 15 << 33;
+
+    QList<int>::const_iterator Iter = std::find(List.begin(), List.end(), 15);
+
+    if( Iter != List.end() )    qDebug() << "Found: " << *Iter;
+
+    else                        qDebug() << "Not found!";
+
+
+    return a.exec();
+}
+```
+![alt text](images/46.PNG?raw=true "sortie de code")
+
+
+
+## 47: IntroModelView
+![alt text](images/47.PNG?raw=true "sortie de code")
+
+
+
+## 48: QDirModel-QTreeView
+![alt text](images/48.PNG?raw=true "sortie de code")
+
+
+
+## 49: QFileSystemModel
+![alt text](images/49.PNG?raw=true "sortie de code")
+
+
+
+## 50: QItemDelegate
+```CPP
+
+```
+![alt text](images/50.PNG?raw=true "sortie de code")
+
+
+
+## 43: SortAlgorithm
+```CPP
+
+```
+![alt text](images/43.PNG?raw=true "sortie de code")
+
+
+
+## 43: SortAlgorithm
+```CPP
+
+```
+![alt text](images/43.PNG?raw=true "sortie de code")
