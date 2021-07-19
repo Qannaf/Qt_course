@@ -433,23 +433,5 @@ int main(int argc, char *argv[])
 
 
 ## 50: QItemDelegate
-```CPP
-
-```
 ![alt text](images/50.PNG?raw=true "sortie de code")
 
-
-
-## 43: SortAlgorithm
-```CPP
-
-```
-![alt text](images/43.PNG?raw=true "sortie de code")
-
-
-
-## 43: SortAlgorithm
-```CPP
-
-```
-![alt text](images/43.PNG?raw=true "sortie de code")
