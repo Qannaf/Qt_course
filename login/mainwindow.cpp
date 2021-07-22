@@ -44,3 +44,25 @@ void MainWindow::on_log_in_clicked()
 
 }
 
+
+void MainWindow::on_actionNew_triggered()
+{
+    QMessageBox::information(this,"New","New file");
+}
+
+
+void MainWindow::on_actionOpen_triggered()
+{
+    QMessageBox::information(this,"Open","Open file");
+}
+
+
+void MainWindow::on_actionExit_triggered()
+{
+    QApplication::quit();
+}
+
+
+
+
+

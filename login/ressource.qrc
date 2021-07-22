@@ -1,5 +1,10 @@
 <RCC>
     <qresource prefix="/ressource">
         <file>img/login.png</file>
+        <file>img/exit.jpg</file>
+        <file>img/fond.jpg</file>
+        <file>img/new.jpg</file>
+        <file>img/open.jpg</file>
+        <file>img/valide.png</file>
     </qresource>
 </RCC>
