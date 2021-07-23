@@ -130,6 +130,7 @@
 
 <a name="20"></a>
 ## 20: QListWidget
+![alt text](images/20a.PNG?raw=true "sortie de code")
 ![alt text](images/20.PNG?raw=true "sortie de code")
 
 <a name="21"></a>
