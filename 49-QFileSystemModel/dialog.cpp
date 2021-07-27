@@ -8,7 +8,7 @@ Dialog::Dialog(QWidget *parent) :
 {
     ui->setupUi(this);
 
-    QString sPath = "/home/kelvin/";
+    QString sPath = "C:/";
     dirmodel = new QFileSystemModel(this);
     dirmodel->setFilter(QDir::NoDotAndDotDot | QDir::AllDirs);
     dirmodel->setRootPath(sPath);
