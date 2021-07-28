@@ -51,6 +51,7 @@
 1. [QDirModel-QTreeView](#48)
 1. [QFileSystemModel](#49)
 1. [50: QItemDelegate](#50)
+1. [Tips](#51)
 
 <a name="1"></a>
 ## 01: Hello, World!  
@@ -520,3 +521,8 @@ int main(int argc, char *argv[])
 ## 50: QItemDelegate
 ![alt text](images/50.PNG?raw=true "sortie de code")
 
+
+
+<a name="51"></a>
+## Tips
+![alt text](images/calculator.PNG?raw=true "sortie de code")
